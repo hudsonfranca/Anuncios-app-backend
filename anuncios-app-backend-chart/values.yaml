@@ -1,0 +1,16 @@
+jwtKey: c2VjcmV0
+
+database:
+  password: c3c1Z2x0ej
+  user: doadmin
+  port: 25060
+  database: defaultdb
+  host: videos-app-database
+
+  
+tag: latest
+
+port: 4000
+
+backendUrl: http://videosapp.ml/api
+
