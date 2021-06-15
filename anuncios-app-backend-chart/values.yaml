@@ -1,16 +1,16 @@
-jwtKey: c2VjcmV0
+jwtKey: secret
 
 database:
-  password: c3c1Z2x0ej
+  password: 12345
   user: doadmin
   port: 25060
   database: defaultdb
-  host: videos-app-database
+  host: anuncios-app-database
 
   
 tag: latest
 
 port: 4000
 
-backendUrl: http://videosapp.ml/api
+backendUrl: http://anunciosapp.ml/api
 
