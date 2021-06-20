@@ -1,11 +1,11 @@
-jwtKey: secret
+jwtKey: c2VjcmV0c2Vj
 
 database:
-  password: 12345
+  password: eHlzbnM0
   user: doadmin
   port: 25060
-  database: defaultdb
-  host: anuncios-app-database
+  database: anuncios-app-db
+  host: portifolio-db
 
   
 tag: latest

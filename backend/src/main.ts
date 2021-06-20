@@ -10,6 +10,7 @@ async function bootstrap() {
 
   const app = await NestFactory.create(AppModule);
   app.use(cookieParser());
+ 
   app.use('/uploads',express.static(path.resolve(__dirname,'..','uploads')));
 
   app.useGlobalPipes(
