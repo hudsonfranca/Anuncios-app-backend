@@ -1,6 +1,7 @@
 # Anuncios-app-backend
 
-  Uma REST API feita em NestJS que possibilita a criação de anúncios.
+  Esta aplicação é feita com [Nest.js](https://nestjs.com/), [Docker](https://www.docker.com/), [Helm](https://helm.sh/) e [Kubernetes](https://kubernetes.io/pt-br/).
+
 
   
 
